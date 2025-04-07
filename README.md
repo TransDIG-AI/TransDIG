@@ -16,7 +16,6 @@ conda activate TransDIG
 conda install pytorch=1.2.0
 conda install pandas scikit-learn gensim IPython
 conda install conda-forge/label/cf201901::rdkit
-conda install conda-forge::optuna
 
 # clone the source code of TransDIG
 git clone https://github.com/TransDIG-AI/TransDIG.git
