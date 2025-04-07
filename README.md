@@ -42,14 +42,14 @@ Compound_attention_analysis.py Line 136
 Protein_attention_analysis.py Line 130  
 
 #### 2. Custom Input Configuration
-```bash
-For compound analysis (`Compound_attention_analysis.py`)  
+
+##### For compound analysis (`Compound_attention_analysis.py`)  
 `Line 96 & 166`: Modify SMILES string  
 `Line 102`: Modify target sequence  
-For protein analysis (`Protein_attention_analysis.py`)  
+##### For protein analysis (`Protein_attention_analysis.py`)  
 `Line 89`: Modify SMILES string  
 `Line 95`: Modify target sequence  
-```
+
 ### 3. Execution
 ```bash
 cd attention_analysis
