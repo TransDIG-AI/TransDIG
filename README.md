@@ -38,8 +38,8 @@ python main_transfer.py
 
 ### Interpretability Analysis
 #### 1. Model Path Replacement
-Compound_attention_analysis.py Line 136  
-Protein_attention_analysis.py Line 130  
+`Compound_attention_analysis.py`: `Line 136`  
+`Protein_attention_analysis.py`: `Line 130`  
 
 #### 2. Custom Input Configuration
 
@@ -52,7 +52,7 @@ Protein_attention_analysis.py Line 130
 
 ### 3. Execution
 ```bash
-cd attention_analysis
+cd Interpretability
 
 # Compound Attention Analysis
 python Compound_attention_analysis.py
