@@ -38,20 +38,17 @@ python main_transfer.py
 
 ### Interpretability Analysis
 #### Configuration
-1. Model Path Replacement
-   
-Compound_attention_analysis.py Line 136
-Protein_attention_analysis.py Line 130
+##### 1. Model Path Replacement
+Compound_attention_analysis.py Line 136  
+Protein_attention_analysis.py Line 130  
 
-2. Custom Input Configuration
-
+##### 2. Custom Input Configuration
 For compound analysis (`Compound_attention_analysis.py`)  
-Line 96 & 166: Modify SMILES string  
-Line 102: Modify target sequence  
- 
+`Line 96 & 166`: Modify SMILES string  
+`Line 102`: Modify target sequence  
 For protein analysis (`Protein_attention_analysis.py`)  
-Line 89: Modify SMILES string  
-Line 95: Modify target sequence  
+`Line 89`: Modify SMILES string  
+`Line 95`: Modify target sequence  
 
 #### Execution
 ```bash
