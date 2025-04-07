@@ -10,7 +10,6 @@ import timeit
 from sklearn.utils import shuffle
 from sklearn.metrics import confusion_matrix, roc_auc_score, precision_score, recall_score,precision_recall_curve, auc, accuracy_score, matthews_corrcoef
 import pandas as pd
-import optuna
 import logging
 
 def load_tensor(file_name, dtype):
