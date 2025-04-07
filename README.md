@@ -4,7 +4,7 @@
 A deep learning framework for drug-target interaction prediction with transfer learning capabilities and interpretability analysis.
 
 ## Framework
-![DrugBAN](image/DrugBAN.jpg)
+![TransDIG](image/TransDIG.jpg)
 
 ## Installation
 ```bash
