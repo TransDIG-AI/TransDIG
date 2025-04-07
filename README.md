@@ -1,4 +1,4 @@
-# TransDIG: A Cross-Attention Transformer for Unveiling the Bioactive Landscape of Drug Inactive Ingredients (DIGs) Using Deep Transfer Learning
+# TransDIG: Unveiling the Bioactive Landscape of Drug Inactive Ingredients (DIGs) Using Deep Transfer Learning
  
 ## Introduction
 TransDIG was designed for unveiling the bioactive landscape of DIGs. The strategy of cross-module deep transfer learning was introduced to train a cross-attention transformer model based on a minimal set of experimentally-validated bioactive DIGs.
